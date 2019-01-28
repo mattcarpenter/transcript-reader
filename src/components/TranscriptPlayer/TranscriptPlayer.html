@@ -1,0 +1,11 @@
+
+<section class="transcript-player">
+  <div class="transcript-pane" ref="transcriptPane">
+    <div v-for="line in transcript" v-bind:class="{ current: line.isCurrent }">
+      <span v-for="word in line.alternatives[0].words">
+        <TranscriptWord :word="word" :onClick="wordClicked"/>
+      </span>
+    </div>
+  </div>
+</section>
+

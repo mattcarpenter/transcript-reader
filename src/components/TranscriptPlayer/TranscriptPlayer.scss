@@ -1,0 +1,17 @@
+.transcript-player {
+
+}
+
+.transcript-player .transcript-pane {
+  height: 100px;
+  overflow-y: scroll;
+  border: solid 1px #000;
+}
+
+.transcript-pane > div {
+  color: #AAA;
+}
+
+.transcript-pane > div.current {
+  color: #FFF;
+}

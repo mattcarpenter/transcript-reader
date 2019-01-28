@@ -1,0 +1,926 @@
+[
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "0",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "10",
+              "nanos": 400000000
+            },
+            "word": "それ|ソレ"
+          },
+          {
+            "startTime": {
+              "seconds": "10",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "10",
+              "nanos": 500000000
+            },
+            "word": "は|ワ"
+          },
+          {
+            "startTime": {
+              "seconds": "10",
+              "nanos": 500000000
+            },
+            "endTime": {
+              "seconds": "11",
+              "nanos": 700000000
+            },
+            "word": "難し|ムズカシ,ムツカシ"
+          },
+          {
+            "startTime": {
+              "seconds": "11",
+              "nanos": 700000000
+            },
+            "endTime": {
+              "seconds": "11",
+              "nanos": 800000000
+            },
+            "word": "そう|ソー"
+          },
+          {
+            "startTime": {
+              "seconds": "11",
+              "nanos": 800000000
+            },
+            "endTime": {
+              "seconds": "12",
+              "nanos": 0
+            },
+            "word": "です|デス"
+          }
+        ],
+        "transcript": "それは難しそうです",
+        "confidence": 0.9614929556846619
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "17",
+              "nanos": 700000000
+            },
+            "endTime": {
+              "seconds": "18",
+              "nanos": 200000000
+            },
+            "word": "あのー|アノー"
+          },
+          {
+            "startTime": {
+              "seconds": "18",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "19",
+              "nanos": 200000000
+            },
+            "word": "すみ|スミ"
+          },
+          {
+            "startTime": {
+              "seconds": "19",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "19",
+              "nanos": 300000000
+            },
+            "word": "ませ|マセ"
+          },
+          {
+            "startTime": {
+              "seconds": "19",
+              "nanos": 300000000
+            },
+            "endTime": {
+              "seconds": "19",
+              "nanos": 600000000
+            },
+            "word": "ん|ン"
+          },
+          {
+            "startTime": {
+              "seconds": "19",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "20",
+              "nanos": 800000000
+            },
+            "word": "何|イズレ,ナニ,ナン"
+          },
+          {
+            "startTime": {
+              "seconds": "20",
+              "nanos": 800000000
+            },
+            "endTime": {
+              "seconds": "20",
+              "nanos": 900000000
+            },
+            "word": "を|オ"
+          },
+          {
+            "startTime": {
+              "seconds": "20",
+              "nanos": 900000000
+            },
+            "endTime": {
+              "seconds": "21",
+              "nanos": 0
+            },
+            "word": "し|シ"
+          },
+          {
+            "startTime": {
+              "seconds": "21",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "21",
+              "nanos": 100000000
+            },
+            "word": "て|テ"
+          },
+          {
+            "startTime": {
+              "seconds": "21",
+              "nanos": 100000000
+            },
+            "endTime": {
+              "seconds": "21",
+              "nanos": 300000000
+            },
+            "word": "いる|イル"
+          },
+          {
+            "startTime": {
+              "seconds": "21",
+              "nanos": 300000000
+            },
+            "endTime": {
+              "seconds": "21",
+              "nanos": 400000000
+            },
+            "word": "ん|ン"
+          },
+          {
+            "startTime": {
+              "seconds": "21",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "21",
+              "nanos": 600000000
+            },
+            "word": "です|デス"
+          },
+          {
+            "startTime": {
+              "seconds": "21",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "21",
+              "nanos": 700000000
+            },
+            "word": "か|カ"
+          }
+        ],
+        "transcript": "あのーすみません何をしているんですか",
+        "confidence": 0.9437271356582642
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "25",
+              "nanos": 500000000
+            },
+            "endTime": {
+              "seconds": "26",
+              "nanos": 0
+            },
+            "word": "これ|コレ"
+          },
+          {
+            "startTime": {
+              "seconds": "26",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "26",
+              "nanos": 200000000
+            },
+            "word": "は|ワ"
+          },
+          {
+            "startTime": {
+              "seconds": "26",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "26",
+              "nanos": 600000000
+            },
+            "word": "犬|イヌ"
+          },
+          {
+            "startTime": {
+              "seconds": "26",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "26",
+              "nanos": 800000000
+            },
+            "word": "です|デス"
+          }
+        ],
+        "transcript": "これは犬です",
+        "confidence": 0.9598434567451477
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "28",
+              "nanos": 700000000
+            },
+            "endTime": {
+              "seconds": "29",
+              "nanos": 200000000
+            },
+            "word": "一緒|イッショ"
+          },
+          {
+            "startTime": {
+              "seconds": "29",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "29",
+              "nanos": 300000000
+            },
+            "word": "に|ニ"
+          },
+          {
+            "startTime": {
+              "seconds": "29",
+              "nanos": 300000000
+            },
+            "endTime": {
+              "seconds": "29",
+              "nanos": 700000000
+            },
+            "word": "作り|ズクリ,ツクリ"
+          },
+          {
+            "startTime": {
+              "seconds": "29",
+              "nanos": 700000000
+            },
+            "endTime": {
+              "seconds": "30",
+              "nanos": 0
+            },
+            "word": "ます|マス"
+          },
+          {
+            "startTime": {
+              "seconds": "30",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "30",
+              "nanos": 200000000
+            },
+            "word": "か|カ"
+          },
+          {
+            "startTime": {
+              "seconds": "30",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "33",
+              "nanos": 400000000
+            },
+            "word": "それ|ソレ"
+          },
+          {
+            "startTime": {
+              "seconds": "33",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "33",
+              "nanos": 500000000
+            },
+            "word": "は|ワ"
+          },
+          {
+            "startTime": {
+              "seconds": "33",
+              "nanos": 500000000
+            },
+            "endTime": {
+              "seconds": "34",
+              "nanos": 0
+            },
+            "word": "難し|ムズカシ,ムツカシ"
+          },
+          {
+            "startTime": {
+              "seconds": "34",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "34",
+              "nanos": 100000000
+            },
+            "word": "そう|ソー"
+          },
+          {
+            "startTime": {
+              "seconds": "34",
+              "nanos": 100000000
+            },
+            "endTime": {
+              "seconds": "34",
+              "nanos": 400000000
+            },
+            "word": "です|デス"
+          },
+          {
+            "startTime": {
+              "seconds": "34",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "34",
+              "nanos": 600000000
+            },
+            "word": "ね|ネ"
+          }
+        ],
+        "transcript": "一緒に作りますかそれは難しそうですね",
+        "confidence": 0.954306423664093
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "35",
+              "nanos": 800000000
+            },
+            "endTime": {
+              "seconds": "36",
+              "nanos": 200000000
+            },
+            "word": "で|デ"
+          },
+          {
+            "startTime": {
+              "seconds": "36",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "36",
+              "nanos": 300000000
+            },
+            "word": "も|モ"
+          },
+          {
+            "startTime": {
+              "seconds": "36",
+              "nanos": 300000000
+            },
+            "endTime": {
+              "seconds": "37",
+              "nanos": 200000000
+            },
+            "word": "頑張り|ガンバリ"
+          },
+          {
+            "startTime": {
+              "seconds": "37",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "37",
+              "nanos": 200000000
+            },
+            "word": "ます|マス"
+          }
+        ],
+        "transcript": "でも頑張ります",
+        "confidence": 0.9127591252326965
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "41",
+              "nanos": 900000000
+            },
+            "endTime": {
+              "seconds": "50",
+              "nanos": 400000000
+            },
+            "word": "まあ|マー"
+          },
+          {
+            "startTime": {
+              "seconds": "50",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "51",
+              "nanos": 600000000
+            },
+            "word": "難しい|ムズカシー,ムツカシー"
+          },
+          {
+            "startTime": {
+              "seconds": "51",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "54",
+              "nanos": 0
+            },
+            "word": "作れ|ズクレ,ツクレ"
+          },
+          {
+            "startTime": {
+              "seconds": "54",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "54",
+              "nanos": 200000000
+            },
+            "word": "ませ|マセ"
+          },
+          {
+            "startTime": {
+              "seconds": "54",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "54",
+              "nanos": 400000000
+            },
+            "word": "ん|ン"
+          }
+        ],
+        "transcript": "まあ難しい作れません",
+        "confidence": 0.9420263171195984
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "56",
+              "nanos": 900000000
+            },
+            "endTime": {
+              "seconds": "57",
+              "nanos": 400000000
+            },
+            "word": "じゃあ|ジャー"
+          },
+          {
+            "startTime": {
+              "seconds": "57",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "58",
+              "nanos": 700000000
+            },
+            "word": "飛行|ヒコー"
+          },
+          {
+            "startTime": {
+              "seconds": "58",
+              "nanos": 700000000
+            },
+            "endTime": {
+              "seconds": "59",
+              "nanos": 0
+            },
+            "word": "機|キ"
+          },
+          {
+            "startTime": {
+              "seconds": "59",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "59",
+              "nanos": 200000000
+            },
+            "word": "は|ワ"
+          },
+          {
+            "startTime": {
+              "seconds": "59",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "59",
+              "nanos": 300000000
+            },
+            "word": "どう|ドー"
+          },
+          {
+            "startTime": {
+              "seconds": "59",
+              "nanos": 300000000
+            },
+            "endTime": {
+              "seconds": "59",
+              "nanos": 700000000
+            },
+            "word": "です|デス"
+          },
+          {
+            "startTime": {
+              "seconds": "59",
+              "nanos": 700000000
+            },
+            "endTime": {
+              "seconds": "59",
+              "nanos": 900000000
+            },
+            "word": "か|カ"
+          }
+        ],
+        "transcript": "じゃあ飛行機はどうですか",
+        "confidence": 0.9512317180633545
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "61",
+              "nanos": 100000000
+            },
+            "endTime": {
+              "seconds": "62",
+              "nanos": 500000000
+            },
+            "word": "それ|ソレ"
+          },
+          {
+            "startTime": {
+              "seconds": "62",
+              "nanos": 500000000
+            },
+            "endTime": {
+              "seconds": "62",
+              "nanos": 600000000
+            },
+            "word": "は|ワ"
+          },
+          {
+            "startTime": {
+              "seconds": "62",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "63",
+              "nanos": 0
+            },
+            "word": "簡単|カンタン"
+          },
+          {
+            "startTime": {
+              "seconds": "63",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "63",
+              "nanos": 200000000
+            },
+            "word": "そう|ソー"
+          },
+          {
+            "startTime": {
+              "seconds": "63",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "63",
+              "nanos": 600000000
+            },
+            "word": "です|デス"
+          }
+        ],
+        "transcript": "それは簡単そうです",
+        "confidence": 0.9350679516792297
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "69",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "71",
+              "nanos": 900000000
+            },
+            "word": "でき|デキ"
+          },
+          {
+            "startTime": {
+              "seconds": "71",
+              "nanos": 900000000
+            },
+            "endTime": {
+              "seconds": "72",
+              "nanos": 100000000
+            },
+            "word": "まし|マシ"
+          },
+          {
+            "startTime": {
+              "seconds": "72",
+              "nanos": 100000000
+            },
+            "endTime": {
+              "seconds": "72",
+              "nanos": 200000000
+            },
+            "word": "た|タ"
+          }
+        ],
+        "transcript": "できました",
+        "confidence": 0.8740139007568359
+      }
+    ],
+    "channelTag": 0
+  },
+  {
+    "alternatives": [
+      {
+        "words": [
+          {
+            "startTime": {
+              "seconds": "73",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "74",
+              "nanos": 0
+            },
+            "word": "これ|コレ"
+          },
+          {
+            "startTime": {
+              "seconds": "74",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "74",
+              "nanos": 100000000
+            },
+            "word": "は|ワ"
+          },
+          {
+            "startTime": {
+              "seconds": "74",
+              "nanos": 100000000
+            },
+            "endTime": {
+              "seconds": "74",
+              "nanos": 700000000
+            },
+            "word": "簡単|カンタン"
+          },
+          {
+            "startTime": {
+              "seconds": "74",
+              "nanos": 700000000
+            },
+            "endTime": {
+              "seconds": "75",
+              "nanos": 200000000
+            },
+            "word": "でし|デシ"
+          },
+          {
+            "startTime": {
+              "seconds": "75",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "75",
+              "nanos": 200000000
+            },
+            "word": "た|タ"
+          },
+          {
+            "startTime": {
+              "seconds": "75",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "76",
+              "nanos": 600000000
+            },
+            "word": "良かっ|ヨカッ"
+          },
+          {
+            "startTime": {
+              "seconds": "76",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "76",
+              "nanos": 600000000
+            },
+            "word": "た|タ"
+          },
+          {
+            "startTime": {
+              "seconds": "76",
+              "nanos": 600000000
+            },
+            "endTime": {
+              "seconds": "76",
+              "nanos": 800000000
+            },
+            "word": "です|デス"
+          },
+          {
+            "startTime": {
+              "seconds": "76",
+              "nanos": 800000000
+            },
+            "endTime": {
+              "seconds": "77",
+              "nanos": 0
+            },
+            "word": "ね|ネ"
+          },
+          {
+            "startTime": {
+              "seconds": "77",
+              "nanos": 0
+            },
+            "endTime": {
+              "seconds": "77",
+              "nanos": 900000000
+            },
+            "word": "それ|ソレ"
+          },
+          {
+            "startTime": {
+              "seconds": "77",
+              "nanos": 900000000
+            },
+            "endTime": {
+              "seconds": "78",
+              "nanos": 200000000
+            },
+            "word": "は|ワ"
+          },
+          {
+            "startTime": {
+              "seconds": "78",
+              "nanos": 200000000
+            },
+            "endTime": {
+              "seconds": "78",
+              "nanos": 300000000
+            },
+            "word": "お|オ"
+          },
+          {
+            "startTime": {
+              "seconds": "78",
+              "nanos": 300000000
+            },
+            "endTime": {
+              "seconds": "78",
+              "nanos": 900000000
+            },
+            "word": "土産|ドサン,ミヤゲ"
+          },
+          {
+            "startTime": {
+              "seconds": "78",
+              "nanos": 900000000
+            },
+            "endTime": {
+              "seconds": "79",
+              "nanos": 100000000
+            },
+            "word": "です|デス"
+          },
+          {
+            "startTime": {
+              "seconds": "79",
+              "nanos": 100000000
+            },
+            "endTime": {
+              "seconds": "80",
+              "nanos": 400000000
+            },
+            "word": "どうぞ|ドーゾ"
+          },
+          {
+            "startTime": {
+              "seconds": "80",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "82",
+              "nanos": 100000000
+            },
+            "word": "ありがとう|アリガトー"
+          },
+          {
+            "startTime": {
+              "seconds": "82",
+              "nanos": 100000000
+            },
+            "endTime": {
+              "seconds": "82",
+              "nanos": 400000000
+            },
+            "word": "ござい|ゴザイ"
+          },
+          {
+            "startTime": {
+              "seconds": "82",
+              "nanos": 400000000
+            },
+            "endTime": {
+              "seconds": "83",
+              "nanos": 0
+            },
+            "word": "ます|マス"
+          }
+        ],
+        "transcript": "これは簡単でした良かったですねそれはお土産ですどうぞありがとうございます",
+        "confidence": 0.9445528984069824
+      }
+    ],
+    "channelTag": 0
+  }
+]
