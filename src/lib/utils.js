@@ -1,6 +1,11 @@
 const NANOS_PER_MILLIS = 1000000;
 const MILLIS_PER_SECOND = 1000;
 
+// TODO:
+// - Make more DRY
+// - Safe to assume words array is ordered. Instead of map/min|max, just
+//   use the first or last item in the array.
+
 export const isLineCurrent = (line, time) => {
   const lineBeginTimeMillis = Math.min.apply(null, 
     line.alternatives[0].words.map(word => 
